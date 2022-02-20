@@ -1,1 +1,1 @@
-web: gunicorn api_conselheira:app
+web: gunicorn run:app.py
